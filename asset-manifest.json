@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/emart-fruitnut.github.io/static/css/main.56e6221f.css",
+    "main.js": "/emart-fruitnut.github.io/static/js/main.4664adfc.js",
+    "static/media/img1.jpg": "/emart-fruitnut.github.io/static/media/img1.ecfcd56cc040d1ee3753.jpg",
+    "static/media/img8.jpg": "/emart-fruitnut.github.io/static/media/img8.1de15631d858f51cb659.jpg",
+    "static/media/img2.jpg": "/emart-fruitnut.github.io/static/media/img2.239e537de8398f27ead8.jpg",
+    "static/media/img7.jpg": "/emart-fruitnut.github.io/static/media/img7.628ea946adbf2d8cf363.jpg",
+    "static/media/img5.jpg": "/emart-fruitnut.github.io/static/media/img5.8203fddc96102d7eacb8.jpg",
+    "static/media/img6.jpg": "/emart-fruitnut.github.io/static/media/img6.92e2e61601ed878a6e3d.jpg",
+    "static/media/img3.jpg": "/emart-fruitnut.github.io/static/media/img3.1ccc31c498485515d6e6.jpg",
+    "static/media/img4.jpg": "/emart-fruitnut.github.io/static/media/img4.bb4bb38c24730ff06858.jpg",
+    "index.html": "/emart-fruitnut.github.io/index.html",
+    "main.56e6221f.css.map": "/emart-fruitnut.github.io/static/css/main.56e6221f.css.map",
+    "main.4664adfc.js.map": "/emart-fruitnut.github.io/static/js/main.4664adfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.4664adfc.js"
+  ]
+}
